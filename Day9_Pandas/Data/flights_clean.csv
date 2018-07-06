@@ -1,0 +1,6 @@
+,ID,Airline,FlightNumber,RecentDelays,From,To
+0,0,KLM,10045,"[23, 47]",London,Paris
+1,1,Air France,10055,[],Madrid,Milan
+2,2,British Airways,10065,"[24, 43, 87]",London,Stockholm
+3,3,Air France,10075,[13],Budapest,Paris
+4,4,Swiss Air,10085,"[67, 32]",Brussels,London
